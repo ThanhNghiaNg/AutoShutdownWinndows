@@ -11,6 +11,7 @@
 - Run the script
   - You can run it on Windows by open `run.bat` file.
   - Or run by command line `py main.py <time_to_sleep_optional>`. The default is 30 minutes (1800 seconds).
+  - `.pyw` is helping to run script in background, change to `.py` to see the console.
 
 ### Other uses
 

@@ -1,1 +1,1 @@
-start py E:\Git\ThanhNghiaNg\Local\AutoShutdown\main.py
+start py E:\Git\ThanhNghiaNg\Local\AutoShutdown\main.pyw

@@ -38,7 +38,6 @@ def main():
     sleep_time = defaultSleepTime  
 
     while True:
-        print(sleep_time)
         if has_mouse_moved(last_mouse_pos):
             last_mouse_pos = pyautogui.position()
             sleep_time = defaultSleepTime
